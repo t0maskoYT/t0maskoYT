@@ -1,4 +1,3 @@
-- 👋 Hi, I’m @t0maskoYT
 - 📈 I know about HTML, CSS, Python
 - 🌱 I’m currently learning fivem develop (.lua)
 
